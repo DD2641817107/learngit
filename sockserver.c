@@ -9,6 +9,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
+//:set fileencoding=utf-8
 
 #define ERR_EXIT(m) \
        do { \
